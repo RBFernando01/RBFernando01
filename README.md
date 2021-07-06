@@ -19,11 +19,11 @@ Atualmente estou trabalhando no **Centro Universitario Uniamerica** no setor de 
 
 ✨
 Estou aprendendo atualmente a programar em:
-**React
-React Native
-Rust
-C#
-VueJS**
+- React
+- React Native
+- Rust
+- C#
+- VueJS**
 ✨
 
 
