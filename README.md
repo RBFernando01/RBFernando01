@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola, seja bem vindo ao meu perfil 👋
 
 <!--
 **RBFernando01/RBFernando01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Me chamo Robson Fernando, tenho 19 anos, sou formado em **Analise e Desenvolvimento de Sistemas**
+Atualmente estou trabalhando no **Centro Universitario Uniamerica** no setor de **Tecnologia da informação**
+🤔
+-------------------------------
+✨
+Estou aprendendo atualmente a programar em:
+**React
+React Native
+Rust
+C#
+VueJS**
+✨
+-------------------------------
+Ja sei programar:
+**HTML
+CSS
+Javascript
+PHP
+C
+C++
+Delphi
+Elixir**
+
