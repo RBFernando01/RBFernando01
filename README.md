@@ -22,7 +22,7 @@ Atualmente estou trabalhando no **Centro Universitario Uniamerica** no setor de 
 - React Native
 - Rust
 - C#
-- VueJS**
+- VueJS
 
 **Ja sei programar:**
 - HTML
@@ -34,3 +34,6 @@ Atualmente estou trabalhando no **Centro Universitario Uniamerica** no setor de 
 - Delphi
 - Elixir
 
+**Formas de contato**
+- Github: https://github.com/RBFernando01
+- Discord: Robsinn_#0001
