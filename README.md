@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 Me chamo Robson Fernando, tenho 19 anos, sou formado em **Analise e Desenvolvimento de Sistemas**
 Atualmente estou trabalhando no **Centro Universitario Uniamerica** no setor de **Tecnologia da informação**
-🤔
--------------------------------
+
 ✨
 Estou aprendendo atualmente a programar em:
 **React
@@ -26,7 +25,6 @@ Rust
 C#
 VueJS**
 ✨
--------------------------------
 Ja sei programar:
 **HTML
 CSS
